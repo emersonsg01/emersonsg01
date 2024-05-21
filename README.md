@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-INFORMAÇÕES PESSOAIS:
+Meu nome é: Emerson de Souza Gonçalves
+Nascido em: 09 de Janeiro de 1991.
+Residente em: São José dos Campos - São Paulo
 
-Cidade: São José dos Campos
-Estado: São Paulo
 
 FORMAÇÃO:
-
+Análises e Desenvolvimento de Sitemas
 UAM - Universidade Anhembi Morumbi
-Superior em Análises e Desenvolvimento de Sitemas
+
 
 COMPETÊNCIAS:
 
