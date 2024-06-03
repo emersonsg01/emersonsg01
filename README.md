@@ -19,18 +19,6 @@ COMPETÊNCIAS:
 / Node.Js
 / Python 
 / JAVA
-/ Banco de Dados 
-/ Comunicação 
-/ Fundamentos para Computação 
-/ Interface Humano Computador 
-/ Lógica de Programação 
-/ Matemática de Programação 
-/ Teoria de Sistemas e Organização de Computadores 
-/ Desenvolvimento Humano e Social 
-/ Engenharia de Softwares 
-/ Processo de Negócios e Empreendedorismo 
-/ sistemas Operacionais 
-/ Editores de Imagens 
 / Editores de Vídeos 
 / Editores de Áudio 
 / Ferramentas de Designer Gráfico.
