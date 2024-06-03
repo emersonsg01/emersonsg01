@@ -13,7 +13,7 @@ UAM - Universidade Anhembi Morumbi
 COMPETÊNCIAS:
 
 / JavaScript 
-/ HTML5 
+/ HTML
 / CSS 
 / SQL
 / Node.Js
